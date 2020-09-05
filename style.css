@@ -1,0 +1,36 @@
+h1{
+    color:yellow;
+}
+
+p,h2{
+    text-align:center;
+}
+body{
+    background-color:blue;
+}
+
+.info_1{
+    display:flex;
+    color:yellow;
+    justify-content:space-evenly;
+}
+.info_2{
+    display:flex;
+    color:yellow;
+    justify-content:space-evenly;
+}
+
+.header{
+    background-color:black;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
